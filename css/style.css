@@ -1,0 +1,28 @@
+.h1k{
+text-align: center;
+background-color: aqua;
+border-radius: 2px solid green;
+
+}
+/* css of arrow*/
+.back-to-top{
+    position: fixed;
+    bottom: 21rem;
+    right: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    width: 3rem;
+    background-color:#4CAF50;
+    border-radius: 30%;
+    
+    
+    
+}
+
+
+
+.back-to-top__image {
+    height: 70%;
+}
